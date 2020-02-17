@@ -1,5 +1,5 @@
-### Yandex.Praktikum - ProjectWork 10 - ver. 0.0.4
-## GIT & Regular Expressions
+### Yandex.Praktikum - ProjectWork 10 -  ver. 0.0.5
+###GIT & Regular Expressions
 ---
 ---
 Ссылка на страницу проекта:  https://atm0sphere94.github.io/project10/
