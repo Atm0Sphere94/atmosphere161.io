@@ -1,5 +1,5 @@
 
-### Yandex.Praktikum - ProjectWork 10 -  ver. 0.0.6
+### Yandex.Praktikum - ProjectWork 10 -  ver. 0.0.7
 ### GIT & Regular Expressions
 ---
 ---
